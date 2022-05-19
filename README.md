@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dovatti
 - 👀 I’m interested in everything related to information technology
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently working on VBA
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: text me on Instagram or Twitter @dovatti
 
